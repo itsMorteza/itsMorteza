@@ -31,12 +31,14 @@ currently_learning: ["ONNX", "Nextjs", "RAG"]
 <center>
    
 ![ItsMorteza's stats](https://github-readme-stats.vercel.app/api?username=itsMorteza&show_icons=true&line_height=20&rank_icon=github&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMorteza&hide_progress=true&theme=dracula&langs_count=8)
+
+</center>
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
 </p>
 
-</center>
+
 
 <!--
 **itsMorteza/itsMorteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
